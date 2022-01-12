@@ -1,0 +1,7 @@
+#install python
+  1)install python 3.7.9(Установщик исполняемого win 64)
+#install libraries
+  2)install spacy
+  3)install chatterbot
+  4)install chatterbot-corpus
+  5)python -m spacy download ru_core_news_lg
